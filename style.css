@@ -1,0 +1,7 @@
+body {
+  background-image: url("/Mandrops.png");
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  backdrop-filter: blur(3px);
+}
